@@ -1,5 +1,5 @@
 
-# Interactive Graphics Final Projects :dog: :softball:
+# Interactive Graphics Final Project :dog: :softball:
 
 ![Screenshot](https://raw.githubusercontent.com/SapienzaInteractiveGraphicsCourse/final-project-pluto/create-react-app/documentation%20assets/screenshot.png)
 
