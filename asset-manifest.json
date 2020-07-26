@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/final-project-pluto/static/css/main.0604f994.chunk.css",
+    "main.js": "/final-project-pluto/static/js/main.d3dfd4ee.chunk.js",
+    "main.js.map": "/final-project-pluto/static/js/main.d3dfd4ee.chunk.js.map",
+    "runtime-main.js": "/final-project-pluto/static/js/runtime-main.8cb5db06.js",
+    "runtime-main.js.map": "/final-project-pluto/static/js/runtime-main.8cb5db06.js.map",
+    "static/js/2.f75ae928.chunk.js": "/final-project-pluto/static/js/2.f75ae928.chunk.js",
+    "static/js/2.f75ae928.chunk.js.map": "/final-project-pluto/static/js/2.f75ae928.chunk.js.map",
+    "index.html": "/final-project-pluto/index.html",
+    "precache-manifest.54efcfead813be36780cdcf66b18e97c.js": "/final-project-pluto/precache-manifest.54efcfead813be36780cdcf66b18e97c.js",
+    "service-worker.js": "/final-project-pluto/service-worker.js",
+    "static/css/main.0604f994.chunk.css.map": "/final-project-pluto/static/css/main.0604f994.chunk.css.map",
+    "static/js/2.f75ae928.chunk.js.LICENSE.txt": "/final-project-pluto/static/js/2.f75ae928.chunk.js.LICENSE.txt",
+    "static/media/10450_Rectangular_Grass_Patch_v1_Diffuse.jpeg": "/final-project-pluto/static/media/10450_Rectangular_Grass_Patch_v1_Diffuse.11fdb98f.jpeg",
+    "static/media/10450_Rectangular_Grass_Patch_v1_iterations-2.mtl": "/final-project-pluto/static/media/10450_Rectangular_Grass_Patch_v1_iterations-2.27d19274.mtl",
+    "static/media/10450_Rectangular_Grass_Patch_v1_iterations-2.obj": "/final-project-pluto/static/media/10450_Rectangular_Grass_Patch_v1_iterations-2.972d22eb.obj",
+    "static/media/Fence.obj": "/final-project-pluto/static/media/Fence.bf6e2636.obj",
+    "static/media/Thai_house.obj": "/final-project-pluto/static/media/Thai_house.1a7dd781.obj",
+    "static/media/bark.png": "/final-project-pluto/static/media/bark.382176cd.png",
+    "static/media/creme.jpg": "/final-project-pluto/static/media/creme.358102cb.jpg",
+    "static/media/Homepage.css": "/final-project-pluto/static/media/grass.a3430e05.jpg",
+    "static/media/leaf.png": "/final-project-pluto/static/media/leaf.fb599f5d.png",
+    "static/media/shirt.jpg": "/final-project-pluto/static/media/shirt.8397dda6.jpg",
+    "static/media/skinTexture.jpg": "/final-project-pluto/static/media/skinTexture.06eb0b47.jpg",
+    "static/media/tree2.obj": "/final-project-pluto/static/media/tree2.a6e38cb0.obj"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cb5db06.js",
+    "static/js/2.f75ae928.chunk.js",
+    "static/css/main.0604f994.chunk.css",
+    "static/js/main.d3dfd4ee.chunk.js"
+  ]
+}
