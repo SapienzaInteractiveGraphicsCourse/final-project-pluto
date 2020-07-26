@@ -29,7 +29,7 @@ User interface and the shell of the project is done by [React.js](https://reactj
 
 Since we decided to use React.js for building user interface of the project and for structuring it, we used the [create-react-app](https://github.com/facebook/create-react-app). It creates for us a developing server which serves all the static files (textures, models), assembles all the *.js files into a single file called "bundle" and transpile our js code written in es6/es7 into the es5 standard, so our project will also run on old browsers.
 
-
+All the project dependencies are listed in the package.json.
 
 ## How to continue developing
 
