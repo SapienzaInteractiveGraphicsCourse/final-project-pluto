@@ -1,73 +1,73 @@
 
-# finalProject
-the final project of the IG Class 
+# Interactive Graphics Final Projects :dog: :softball:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot](https://raw.githubusercontent.com/SapienzaInteractiveGraphicsCourse/final-project-pluto/create-react-app/documentation%20assets/screenshot.png)
 
-## Available Scripts
+LIVE LINK: https://sapienzainteractivegraphicscourse.github.io/final-project-pluto/ 
 
-In the project directory, you can run:
+## Idea
 
-### `npm start`
+In this project we have simulated a dog ball fetching game in a house garden. :dog:  :softball:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Controls
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+In order to try the simulator, use the following controls:
+* in order to take and throw the ball press **"Enter"**, **"Shift"** or **"Space"** buttons;
+* It is possible to rotate the camera, as well as zoom-in/zoom-out using the mouse;
+* You can use left and right arrow buttons to rotate the human and throw the ball in different directions.
 
-### `npm test`
+## Technologies used
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Graphics
+The graphic part of the project is written using [THREE.JS](https://threejs.org/) library. The animation is implemented using [TWEEN.JS](https://github.com/tweenjs/tween.js/).
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### User interfaces
+User interface and the shell of the project is done by [React.js](https://reactjs.org/) library.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Developing environment
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Since we decided to use React.js for building user interface of the project and for structuring it, we used the [create-react-app](https://github.com/facebook/create-react-app). It creates for us a developing server which serves all the static files (textures, models), assembles all the *.js files into a single file called "bundle" and transpile our js code written in es6/es7 into the es5 standard, so our project will also run on old browsers.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## How to continue developing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Start developing server
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+In order to run the developing server of the project, you need to have [Node.ls](https://nodejs.org/).
 
-## Learn More
+Before starting, we need to download all the dependencies. To do that, go to the root directory of the project and run the following command:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```sh
+npm install
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Then, we can run the developing server:
 
-### Code Splitting
+```sh
+npm start
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+The server have been started and if you go to the http://localhost:3000 you should see the working project.
 
-### Analyzing the Bundle Size
+### Build the project
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+When you finish developing the project and want to deploy it, run this command:
 
-### Making a Progressive Web App
+```sh
+npm run build
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+This command prepares the app for production and place all the files into `build` folder.
 
-### Advanced Configuration
+The app is ready to be deployed.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+You can learn more about the create-react-app commands [here](https://github.com/facebook/create-react-app).
 
-### Deployment
+## Authors
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Artsiom Sauchuk
 
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Berrak Senses
 
